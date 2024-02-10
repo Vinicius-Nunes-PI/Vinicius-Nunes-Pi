@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# devVini
+
+<ul>
+<li>
+  🎓 Computer Science Student @ UFPI
+</li>
+<li>
+  🧠 programming enthusiast
+</li>
+<li>
+💡 loves to overcome goals
+</li>
+</ul>
